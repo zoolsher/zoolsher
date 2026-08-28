@@ -1,27 +1,82 @@
-# zoolsher
+<h1 align="center">Ray</h1>
 
-## Accounts
+<p align="center">
+  <a href="https://romeos.cc/">
+    <img alt="Building Rome" src="https://img.shields.io/badge/building-Rome-111111?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/rome-os/rome">
+    <img alt="Rome on GitHub" src="https://img.shields.io/badge/rome--os%2Frome-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+  </a>
+  <a href="https://x.com/zoolsher">
+    <img alt="Follow @zoolsher on X" src="https://img.shields.io/badge/%40zoolsher-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" />
+  </a>
+</p>
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40zoolsher)](https://twitter.com/zoolsher)
+## I'm building Rome
 
-I am the hiring manager for the [ByteDance WebInfra Team](https://webinfra.org/). I'm assembling a team to develop the next-generation development toolkit designed to solve scaling challenges in enterprise-level projects. If you are passionate about our mission and interested in our work, we invite you to join us.
+<p align="center">
+  <a href="https://romeos.cc/">
+    <img
+      src="https://raw.githubusercontent.com/rome-os/rome/main/packages/web/public/icon.svg"
+      alt="Rome"
+      width="112"
+    />
+  </a>
+</p>
 
+Most progress in AI comes from scaling models. Rome scales the other axis: the environment—the tools, workflows, memory, and interfaces an agent works within.
 
-## Our projects
+Rome is a guardrailed environment where humans and agents collaborate, and that collaboration compounds. Proven capabilities stick, so every interaction can raise the ceiling for the next.
 
+My work spans the agent runtime, Rome Apps and developer tooling, Rome Cloud, native experiences, and the open-source ecosystem around them.
 
-| [Rspack](https://github.com/web-infra-dev/rspack) | <a href="https://github.com/web-infra-dev/rspack" target="blank"><img src="https://github.com/user-attachments/assets/62a89253-dfdc-4564-b900-72b9e5186643" width="400" /></a> | [Rsbuild](https://github.com/web-infra-dev/rsbuild) | <a href="https://github.com/web-infra-dev/rsbuild" target="blank"><img src="https://github.com/user-attachments/assets/6ba8fe2e-9160-4841-b298-82773a3466e1" width="400" /></a> |
-| :-: | :-: | :-: | :-: |
-| [Rspress](https://github.com/web-infra-dev/rspress) | <a href="https://github.com/web-infra-dev/rspress" target="blank"><img src="https://github.com/user-attachments/assets/610e5b3f-2f1a-4a0c-81a9-bc75bc0928cb" width="400" /></a> | [Rsdoctor](https://github.com/web-infra-dev/rsdoctor) | <a href="https://github.com/web-infra-dev/rsdoctor" target="blank"><img src="https://github.com/user-attachments/assets/3b1612e5-c6d0-43ee-9313-722a2458d4be" width="400" /></a> |
-| [Rslib](https://github.com/web-infra-dev/rslib) | <a href="https://github.com/web-infra-dev/rslib" target="blank"><img src="https://github.com/user-attachments/assets/39cb6d20-b6e7-48e9-bb48-b8a8f2a2c680" width="400" /></a> | [Rstest](https://github.com/web-infra-dev/rstest) | <a href="https://github.com/web-infra-dev/rstest" target="blank"><img src="https://github.com/user-attachments/assets/c87a3499-2a54-40c4-9d2c-7575d85d6d9b" width="400" /></a> |
-| [Midscene.js](https://github.com/web-infra-dev/midscene) | <a href="https://github.com/web-infra-dev/midscene" target="blank"><img src="https://github.com/user-attachments/assets/1cc0330f-91c3-4e27-8035-e730b05e1104" width="400" /></a> | [Modern.js](https://github.com/web-infra-dev/modern.js) | <a href="https://github.com/web-infra-dev/modern.js" target="blank"><img src="https://github.com/user-attachments/assets/9bdc7030-53cc-4d98-bcd0-c2a2bdc273ce" width="400" /></a> |
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=lyNGYEw4a6Y">
+    <img
+      src="https://raw.githubusercontent.com/rome-os/rome/main/docs/assets/rome-overview-video.jpg"
+      alt="Watch Rome, an OS for Recursive Agents"
+      width="820"
+    />
+  </a>
+</p>
 
+## Before Rome
 
-> See [github.com/rspack-contrib](https://github.com/rspack-contrib) for more projects!
+<p align="center">
+  <a href="https://webinfra.org/">
+    <img
+      src="https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/web-infra-logo.png"
+      alt="Web Infra"
+      width="140"
+    />
+  </a>
+</p>
 
-## Join us
+Before Rome, I worked on Web Infra at ByteDance and helped build the open-source tooling ecosystem around [Rspack](https://github.com/web-infra-dev/rspack), [Rsbuild](https://github.com/web-infra-dev/rsbuild), [Rspress](https://github.com/web-infra-dev/rspress), [Rsdoctor](https://github.com/web-infra-dev/rsdoctor), [Rslib](https://github.com/web-infra-dev/rslib), and [Rstest](https://github.com/web-infra-dev/rstest).
 
-We're looking for passionate engineers to help us build and maintain a world-class web infrastructure that supports ByteDance's continued growth and success. If you are interested, please read the link below:
-
-- English: [Mountain View Team / Seattle Team is hiring](https://webinfra.org/en/about)
-- Chinese: [字节跳动 Web Infra 团队招聘信息](https://webinfra.org/about)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/web-infra-dev/rspack">
+        <img src="https://github.com/user-attachments/assets/62a89253-dfdc-4564-b900-72b9e5186643" alt="Rspack" width="400" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/web-infra-dev/rsbuild">
+        <img src="https://github.com/user-attachments/assets/6ba8fe2e-9160-4841-b298-82773a3466e1" alt="Rsbuild" width="400" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/web-infra-dev/rspress">
+        <img src="https://github.com/user-attachments/assets/610e5b3f-2f1a-4a0c-81a9-bc75bc0928cb" alt="Rspress" width="400" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/web-infra-dev/rsdoctor">
+        <img src="https://github.com/user-attachments/assets/3b1612e5-c6d0-43ee-9313-722a2458d4be" alt="Rsdoctor" width="400" />
+      </a>
+    </td>
+  </tr>
+</table>
